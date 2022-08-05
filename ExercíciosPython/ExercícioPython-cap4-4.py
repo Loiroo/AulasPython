@@ -1,7 +1,7 @@
 " Leia um número real e imprima o resultado do quadrado desse número "
 
 print("Digite um número:")
-numero = int(input())
+numero = float(input())
 
 quadrado = (numero * numero)
 
